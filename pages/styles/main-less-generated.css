@@ -1,0 +1,9 @@
+h1 {
+  color: #ffa500;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+h2 {
+  color: #cc8400;
+}

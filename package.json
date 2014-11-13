@@ -1,0 +1,19 @@
+{
+  "name": "less-sass-sample",
+  "version": "0.0.1",
+  "description": "An example of using Grunt tasks to automatically watch and compile LESS and SASS templates",
+  "private": true,
+  "repository": {},
+  "dependencies": {
+    "express": "^4.8.7"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-nodemon": "^0.3.0",
+    "load-grunt-tasks": "^1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+@import 'colors';
+
+h3{
+  color:$main_color;
+  &:hover{
+    cursor: pointer;
+  }
+}
+h4{
+  @extend h3;
+  color:darken($main_color, 10%);
+}
